@@ -1,7 +1,7 @@
 
-# Cookiecutter AIOHTTP
+# Cookiecutter SELENIUM
 
-A Cookiecutter template for creating AIOHTTP applications with best practices.
+A Cookiecutter template for creating Selenium applications with best practices.
 
 
 ## Usage
