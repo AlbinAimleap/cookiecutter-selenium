@@ -3,7 +3,7 @@
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "schema_model": "Schema",
     "project_description": "A Selenium web scraper",
-    "site_url": "https://example.com",
+    "site_url": "https://google.com",
     "output_file_name": "output.json",
     "author_name": "Your Name",
     "author_email": "your.email@example.com",
