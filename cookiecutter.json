@@ -1,0 +1,13 @@
+{
+    "project_name": "Selenium Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "schema_model": "Schema",
+    "project_description": "A Selenium web scraper",
+    "site_url": "https://example.com",
+    "output_file_name": "output.json",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
+    "project_version": "0.0.1",
+    "logger_name": "selenium_logger",
+    "python_version": "3.11"
+}
